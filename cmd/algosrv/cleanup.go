@@ -1,4 +1,4 @@
-package algosrv
+package main
 
 import (
 	"log"
